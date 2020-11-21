@@ -1,3 +1,2 @@
 # dejankarin.github.io
-Dejan Karin
-Photography Website
+Dejan Karin's Photographic Diary

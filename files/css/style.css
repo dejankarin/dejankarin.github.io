@@ -429,7 +429,7 @@ p pre, p code {
 	#page-body.nopadding { padding: 0; }
 
 .wrapper {
-	width: 1080px;
+	width: 1280px;
 	margin: 0 auto;
 	}
 	.wrapper-small { width: 860px;	margin: 0 auto; }
@@ -950,7 +950,7 @@ footer #backtotop:before {
 #hero.hero-full { height: 100vh; }
 #hero.hero-big { height: 600px; max-height: 90vh;}
 #hero.hero-half { height: 400px; max-height: 60vh; }
-#hero.hero-works { height: 300px; }
+#hero.hero-works { height: 150px; }
 
 #hero.hero-full .page-title, #hero.hero-big .page-title, #hero.hero-half .page-title {
 	padding: 0;
