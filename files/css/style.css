@@ -2170,7 +2170,7 @@ header #logo { height: 30px;	 }
 nav#main-nav ul li > a { line-height: 30px; }
 
 /* logo height + header-inner margin (30px + 2*60px) */
-#page-body { padding-top: 150px; }
+#page-body { padding-top: 65px; }
 header:after { top: -150px; height: 150px; }
 header.header-open:not(.header-transparent) + #hero, header.header-open:not(.header-transparent) + #page-body { margin-top: 150px; }
 #header-filter, #header-share { top: -150px;	 min-height: 150px; }
